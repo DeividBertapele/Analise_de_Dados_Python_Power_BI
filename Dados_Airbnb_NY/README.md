@@ -6,6 +6,7 @@ Link para coletar dados:
 
 
 Biblioteca para ser instalados:
+
     - Pandas
     - Jupyter
     - Numpy
