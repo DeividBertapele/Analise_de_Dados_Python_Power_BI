@@ -63,7 +63,11 @@ outro com poucos reviews?
 
 
 
-https://github.com/DeividBertapele/Analise_de_Dados_Python_Power_BI/assets/43301551/237f1a73-d686-4925-957a-01e56b997e3c
+
+https://github.com/DeividBertapele/Analise_de_Dados_Python_Power_BI/assets/43301551/b0494d8f-a9ad-465e-87aa-2d04cd2279d8
+
+
+
 
 
 
