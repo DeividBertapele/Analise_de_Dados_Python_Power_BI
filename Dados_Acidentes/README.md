@@ -22,5 +22,7 @@
           
 
 
-https://github.com/DeividBertapele/Analise_de_Dados_Python_Power_BI/assets/43301551/5455edc2-c8c1-49dd-a0cc-f070d3a01a8f
+
+https://github.com/DeividBertapele/Analise_de_Dados_Python_Power_BI/assets/43301551/3e2d4051-d9b2-44c1-9c1c-f5df51104a36
+
 
