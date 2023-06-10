@@ -17,3 +17,10 @@
 
         - Dados de Acidentes de Trânsito:
             - https://dadosabertos.poa.br/dataset/acidentes-de-transito-acidentes/resource/b56f8123-716a-4893-9348-23945f1ea1b9
+            
+            
+          
+
+
+https://github.com/DeividBertapele/Analise_de_Dados_Python_Power_BI/assets/43301551/5455edc2-c8c1-49dd-a0cc-f070d3a01a8f
+
